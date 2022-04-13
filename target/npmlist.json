@@ -1,0 +1,1 @@
+{"version":"1.0.0","name":"chat-app-socket-io","dependencies":{"bad-words":{"version":"3.0.4"},"express":{"version":"4.17.3"},"socket.io":{"version":"4.4.1"}}}
